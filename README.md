@@ -7,6 +7,7 @@
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YFETUU5MXQQ5)
+- [Comptia Security+](https://www.credly.com/badges/f18465a8-b43d-45cc-85b9-a8aa5939e594/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
