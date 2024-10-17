@@ -8,6 +8,7 @@
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YFETUU5MXQQ5)
 - [Comptia Security+](https://www.credly.com/badges/f18465a8-b43d-45cc-85b9-a8aa5939e594/linked_in_profile)
+- [AWS Certified Cloud Pracrtioner](https://www.credly.com/badges/fa38db9c-6631-4b81-b3d7-01bc8c01fddb/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
