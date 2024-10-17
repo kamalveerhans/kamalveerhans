@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
- 
+- [Microsoft Windows Defender and Firewall For Beginners](https://www.coursera.org/account/accomplishments/verify/PQ4DFEJAZ84B)
+- [Wireshark for Basic Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/JLNM84LWLH7Z)
+
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YFETUU5MXQQ5)
