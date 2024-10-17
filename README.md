@@ -4,9 +4,9 @@
 
 - [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
  
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certifications</h2>
 
-
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YFETUU5MXQQ5)
 
 <h2> 🤳 Connect with me:</h2>
 
