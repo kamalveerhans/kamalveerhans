@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kamalveer Hans! <br/><a>Cybersecurity Professional</a>
+<h1>Hi, I'm Kamalveer Hans! <br/><a>IT Support Specialist</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
 - [Microsoft Windows Defender and Firewall For Beginners](https://www.coursera.org/account/accomplishments/verify/PQ4DFEJAZ84B)
