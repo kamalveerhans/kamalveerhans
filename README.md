@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kamalveer Hans! <br/><a>IT Support Specialist</a>
+<h1>Hi, I'm Kamalveer Hans! <br/><a>IT Helpdesk/ Cybersecurity</a>
 
 <h2>👨‍💻 Projects:</h2>
 
