@@ -1,10 +1,17 @@
-<h1>Hi, I'm Kamalveer Hans! <br/><a>IT Professional</a>
+<h1>Hi, I'm Kamalveer Hans, an <a href="www.linkedin.com/in/kamalveer-hans-84ab92246">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
-- [Microsoft Windows Defender and Firewall For Beginners](https://www.coursera.org/account/accomplishments/verify/PQ4DFEJAZ84B)
-- [Wireshark for Basic Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/JLNM84LWLH7Z)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Coursera Certificates</b>
+  - [Microsoft Windows Defender and Firewall For Beginners](https://www.coursera.org/account/accomplishments/verify/PQ4DFEJAZ84B)
+  - [Wireshark for Basic Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/JLNM84LWLH7Z)
 
 <h2>Certifications</h2>
 
