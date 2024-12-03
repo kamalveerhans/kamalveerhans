@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kamalveerhans/ticket-lifestyle)
 - <b>Microsoft Azure</b>
   - [Active Directory Home Lab](https://github.com/kamalveerhans/ActiveDirectoryLab/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kamalveerhans/NSG)
 - <b>Coursera Certificates</b>
   - [Microsoft Windows Defender and Firewall For Beginners](https://www.coursera.org/account/accomplishments/verify/PQ4DFEJAZ84B)
   - [Wireshark for Basic Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/JLNM84LWLH7Z)
